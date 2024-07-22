@@ -49,4 +49,5 @@ A web application allowing users to explore audiobooks, provide reviews and rati
 * Once both servers are running, you can access the application in your browser at http://localhost:3000 (or the specified port in the `PORT` variable inside `.env` file.).
 
 **Live Demo:**
-[Video] (https://youtu.be/Q1_4W05pVeA)
+
+[![Watch the video](https://i.ytimg.com/vi/qfGW7l-53R8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBuAmAAtAFigIMCAAQARhyIEQoODAP&rs=AOn4CLATM1zIHnsaxRbAlQWOFy-k8gJEtA)](https://www.youtube.com/watch?v=qfGW7l-53R8)
