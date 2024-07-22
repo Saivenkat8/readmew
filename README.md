@@ -1,22 +1,49 @@
-# Project Title
+# Audiobook Review and Rating System
 
 **Description:**
-A brief overview of the project.
+
+A web application allowing users to explore audiobooks, provide reviews and ratings.
+
+**Technologies:**
+
+* **Frontend:** React, JavaScript, CSS
+* **Backend:** Node.js, Express, MongoDB
+
+**Installation:**
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+2. **Navigate to project directory:**
+   ```bash
+   cd your-repo
+3. **Install dependencies:**
+   ```bash
+    cd client
+    npm install
+    cd ../server
+    npm install
+4. **Set up environment variables:**
+  Update the .env file under the server folder of your project and add the following:
+    ```bash
+    MONGO_URI=your_mongodb_connection_string
+    ```
+    Replace `your_mongodb_connection_string` with your actual MongoDB connection URI.
+  
+5. **Running the application:**
+   * Open two separate command prompts or terminal windows.
+   * In the first terminal, navigate to the client directory and run:
+       ```bash
+       cd client
+       npm start
+       ```
+   * In the second terminal, navigate to the server directory:
+       ```bash
+       cd server
+       npm run start-all
+       ```
 
 **Getting Started:**
-* **Prerequisites:** List any required software or libraries.
-* **Installation:** Steps to set up the project.
-* **Running the Application:** Instructions on how to run the project.
 
-**Usage:**
-* Explain how to use the project.
-* Provide examples or usage scenarios.
-
-**Contributing:**
-Guidelines for contributing to the project.
-
-**License:**
-Specify the project's license.
-
-**Contact:**
-Your contact information.
+* Once both servers are running, you can access the application in your browser at http://localhost:3000 (or the specified port in the `PORT` variable inside `.env` file.).
