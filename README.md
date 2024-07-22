@@ -50,4 +50,4 @@ A web application allowing users to explore audiobooks, provide reviews and rati
 
 **Live Demo:**
 
-[![Watch the video](https://raw.githubusercontent.com/Saivenkat8/readmew/main/thumbnail.webp)](https://raw.githubusercontent.com/Saivenkat8/readmew/blob/main/Assignment%20Demo.mp4)
+[![Watch the video](https://i.ytimg.com/vi/qfGW7l-53R8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBuAmAAtAFigIMCAAQARhyIEQoODAP&rs=AOn4CLATM1zIHnsaxRbAlQWOFy-k8gJEtA)](https://www.youtube.com/watch?v=qfGW7l-53R8)
