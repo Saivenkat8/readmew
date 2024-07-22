@@ -14,10 +14,10 @@ A web application allowing users to explore audiobooks, provide reviews and rati
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/sriramyogi99/Audiobook-Review-and-Rating-System)
+   git clone https://github.com/sriramyogi99/Audiobook-Review-and-Rating-System.git
 2. **Navigate to project directory:**
    ```bash
-   cd your-repo
+   cd Audiobook-Review-and-Rating-System
 3. **Install dependencies:**
    ```bash
     cd client
